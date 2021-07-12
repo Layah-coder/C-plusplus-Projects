@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AerobicActivity" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="AerobicActivity::NegativeMinutes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AerobicActivity.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAIAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AerobicActivity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicalActivity" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAABAEAAAAAgA=</HashCode>
+      <FileName>PhysicalActivity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrengthTraining" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="StrengthTraining::NegativeSets" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>StrengthTraining.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="StrengthTraining::NegativeReps" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>StrengthTraining.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACACAABAAAAEIAAAAEAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StrengthTraining.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Day" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAIAIAAAAAIAAAAAAAAAAAABAAAAAAAAgAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
